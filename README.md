@@ -18,5 +18,4 @@ This project utilizes Python to explore data related to bike share systems for t
 ### Credits
 - [Udacity](https://www.udacity.com/) - For the project guidelines and datasets
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/) - For detailed documentation on pandas library
-- [Python's PEP 257](https://www.python.org/dev/peps/pep-0257/) - For docstring conventions
 
