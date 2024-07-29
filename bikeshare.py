@@ -104,7 +104,7 @@ def time_stats(df):
 
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
-    print('\nCalculating The Most Popular Stations and Trip...\n')
+    print('\nCalculating The Most Popular Stations and Trip.\n')
     start_time = time.time()
 
     most_common_start_station = df['Start Station'].mode()[0]
